@@ -40,6 +40,11 @@ TEMPLATE = app
 # make sure we do not accidentally #include files placed in 'resources'
 CONFIG += no_include_pwd
 
+
+QMAKE_CXXFLAGS = -mmacosx-version-min=10.7 -std=gnu0x -stdlib=libc+
+
+CONFIG +=c++11
+
 ###############################################################################
 # BEGIN SECTION FOR SPECIFYING SOURCE/LIBRARY/RESOURCE FILES OF PROJECT       #
 ###############################################################################

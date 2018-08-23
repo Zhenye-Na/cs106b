@@ -25,8 +25,8 @@ using namespace std;
 int nameHash(string first, string last);
 
 int main() {
-    string first = getLine("What is your first name? ");
-    string last = getLine("What is your last name? ");
+    string first  = getLine("What is your first name? ");
+    string last   = getLine("What is your last name? ");
 
     int hashValue = nameHash(first, last);
 
