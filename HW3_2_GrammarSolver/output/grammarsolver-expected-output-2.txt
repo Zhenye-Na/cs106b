@@ -1,0 +1,64 @@
+Welcome to CS 106X Grammar Solver!
+I will use grammar rules to generate random
+sentences, phrases, and expressions for you.
+
+Grammar file name? sentence2.txt
+Symbol to generate (Enter to quit)? DET
+How many to generate? 3
+
+ 1: a
+ 2: the
+ 3: a
+
+Symbol to generate (Enter to quit)? <kitty>
+How many to generate? 2
+
+ 1: <kitty>
+ 2: <kitty>
+
+Symbol to generate (Enter to quit)? NOUNP
+How many to generate? 5
+
+ 1: the terrible smelly blue girl
+ 2: the blue child
+ 3: Kelly
+ 4: Stefanie
+ 5: the super cat
+
+Symbol to generate (Enter to quit)? huge
+How many to generate? 1
+
+ 1: huge
+
+Symbol to generate (Enter to quit)? SENT
+How many to generate? 10
+
+ 1: Marisa kicked the hungry television
+ 2: a smelly great grandpa laughed
+ 3: a hungry super dog collapsed
+ 4: Kelly rebooted Kelly
+ 5: the buggy smelly smelly tiny store built Stefanie
+ 6: a buggy store destroyed a furious hungry super smelly store
+ 7: the huge blue Java program collapsed
+ 8: a boring second cousin collapsed
+ 9: a boring Java program wept
+10: the blue store laughed
+
+Symbol to generate (Enter to quit)? SENT
+How many to generate? 1
+
+ 1: Eric laughed
+
+Symbol to generate (Enter to quit)? VERBP
+How many to generate? 5
+
+ 1: died
+ 2: laughed
+ 3: built Marisa
+ 4: graded
+ 5: built a huge great grandpa
+
+Symbol to generate (Enter to quit)? 
+Again? (Y/N) n
+
+Exiting.

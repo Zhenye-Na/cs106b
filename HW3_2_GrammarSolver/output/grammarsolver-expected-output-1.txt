@@ -1,0 +1,66 @@
+Welcome to CS 106X Grammar Solver!
+I will use grammar rules to generate random
+sentences, phrases, and expressions for you.
+
+Grammar file name? sentence.txt
+Symbol to generate (Enter to quit)? <dp>
+How many to generate? 3
+
+ 1: a
+ 2: the
+ 3: a
+
+Symbol to generate (Enter to quit)? s
+How many to generate? 2
+
+ 1: s
+ 2: s
+
+Symbol to generate (Enter to quit)? <kitty>
+How many to generate? 1
+
+ 1: <kitty>
+
+Symbol to generate (Enter to quit)? <np>
+How many to generate? 5
+
+ 1: the fat pretentious wonderful university
+ 2: the wonderful university
+ 3: Jane
+ 4: Sally
+ 5: the big television
+
+Symbol to generate (Enter to quit)? big
+How many to generate? 2
+
+ 1: big
+ 2: big
+
+Symbol to generate (Enter to quit)? <big>
+How many to generate? 1
+
+ 1: <big>
+
+Symbol to generate (Enter to quit)? <s>
+How many to generate? 10
+
+ 1: Jane kissed the wonderful man
+ 2: a pretentious mother died
+ 3: a pretentious subliminal cat died
+ 4: Jane kissed Jane
+ 5: the green faulty subliminal fat man honored Sally
+ 6: a fat child hit a faulty big wonderful wonderful television
+ 7: the green fat child laughed
+ 8: a faulty man died
+ 9: a wonderful dog died
+10: the big man wept
+
+Symbol to generate (Enter to quit)? <s>
+How many to generate? 1
+
+ 1: Fred laughed
+
+Symbol to generate (Enter to quit)? 
+Again? (Y/N) n
+
+Exiting.
